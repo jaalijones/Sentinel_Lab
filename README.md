@@ -12,7 +12,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://user-images.githubusercontent.com/110305863/184516108-2c523e8d-fbc1-4124-a587-15247473396f.JPG" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
 
@@ -22,20 +22,18 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks from China & Thailand coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://user-images.githubusercontent.com/110305863/184515685-23b54476-dce1-4fcb-954d-abbaae4a6492.JPG" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://imgur.com/a/CKxh886" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-![ODsHfI0 - Imgur](https://user-images.githubusercontent.com/110305863/184511188-646e6fa3-9eb0-4094-af04-0c0c5052ec4a.jpg)
+<img src="https://user-images.githubusercontent.com/110305863/184511488-4f80f9cf-3a13-4883-b513-5c126614bbee.JPG" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 
 </p>
-
 
 <!--
  ```diff
